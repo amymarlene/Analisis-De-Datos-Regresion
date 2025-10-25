@@ -92,23 +92,8 @@ El objetivo es **preparar los datos para regresión**, identificar variables que
 
 ---
 
-### 5️⃣ Impacto de Variables sobre Cargos
 
-![Impacto de Variables](imagenes/impacto_variables.png)
-
-**Variables más importantes:**
-
-1. `fumador_si` – 0.79  
-2. `edad` – 0.30  
-3. `imc` – 0.21  
-4. `hijos` – 0.07  
-5. `sexo_masculino` – 0.06  
-
-> Este gráfico ayuda a identificar qué variables usar primero en un modelo de regresión.
-
----
-
-### 6️⃣ División Train / Test
+### 5️⃣ División Train / Test
 
 - **Train**: 80% (~1008 filas)  
 - **Test**: 20% (~252 filas)  
