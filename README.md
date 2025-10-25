@@ -63,12 +63,16 @@ El objetivo es **preparar los datos para regresión**, identificar variables que
 
 - **Scatterplots**: edad, IMC e hijos vs `cargos`  
 
-![Edad vs Costos](imagenes/edad_vs_cargos.png)  
-![IMC vs Costos](imagenes/imc_vs_cargos.png)  
+#### Relación entre Edad y Costo del Seguro
+![Edad vs Costo del Seguro](https://github.com/amymarlene/Analisis-De-Datos-Regresion/blob/main/edadvscost.png?raw=true)
+
+#### Relación entre IMC y Costo del Seguro
+![IMC vs Costo del Seguro](https://github.com/amymarlene/Analisis-De-Datos-Regresion/blob/main/bmivscarg.png?raw=true)
 
 - **Boxplots**: variables categóricas vs `cargos`  
 
-![Fumador vs Costos](imagenes/fumador_vs_cargos.png)  
+#### Relación entre Fumador y Costo del Seguro
+![Fumador vs Costo del Seguro](https://github.com/amymarlene/Analisis-De-Datos-Regresion/blob/main/fumvscos.png?raw=true)
 
 > Observación: Ser fumador aumenta drásticamente los costos; edad e IMC muestran correlación positiva; hijos y sexo tienen menor impacto.
 
@@ -76,7 +80,8 @@ El objetivo es **preparar los datos para regresión**, identificar variables que
 
 ### 4️⃣ Correlación de Variables
 
-![Matriz de Correlación](imagenes/corr_matrix.png)  
+### Matriz de Correlación
+![Matriz de Correlación](https://github.com/amymarlene/Analisis-De-Datos-Regresion/blob/main/correlacionmatriz.png?raw=true)
 
 **Correlación con `cargos`:**
 
