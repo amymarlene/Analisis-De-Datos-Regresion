@@ -26,10 +26,17 @@ El objetivo es **preparar los datos para regresión**, identificar variables que
 
 #### Edad, IMC, Hijos y Costos
 
-![Histograma de Edad](imagenes/edad_hist.png)  
-![Histograma de IMC](imagenes/imc_hist.png)  
-![Histograma de Hijos](imagenes/hijos_hist.png)  
-![Histograma de Costos](imagenes/costos_hist.png)
+#### Edad
+![Histograma de Edad](https://github.com/amymarlene/Analisis-De-Datos-Regresion/blob/main/histedad.png?raw=true)
+
+#### IMC
+![Histograma de IMC](https://github.com/amymarlene/Analisis-De-Datos-Regresion/blob/main/histdebmi.png?raw=true)
+
+#### Hijos
+![Histograma de Hijos](https://github.com/amymarlene/Analisis-De-Datos-Regresion/blob/main/histchildr.png?raw=true)
+
+#### Costos
+![Histograma de Costos](https://github.com/amymarlene/Analisis-De-Datos-Regresion/blob/main/histdecharge.png?raw=true)
 
 > Observación: Los costos muestran alta dispersión y algunos valores extremos (outliers), filtrados antes de la regresión.
 
