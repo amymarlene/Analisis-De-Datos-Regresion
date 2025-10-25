@@ -46,9 +46,14 @@ El objetivo es **preparar los datos para regresión**, identificar variables que
 
 #### Sexo, Fumador y Región
 
-![Conteo Sexo](imagenes/sexo_count.png)  
-![Conteo Fumador](imagenes/fumador_count.png)  
-![Conteo Región](imagenes/region_count.png)
+#### Sexo
+![Conteo por Sexo](https://github.com/amymarlene/Analisis-De-Datos-Regresion/blob/main/conteoporsex.png?raw=true)
+
+#### Estado de Fumador
+![Conteo de Fumadores](https://github.com/amymarlene/Analisis-De-Datos-Regresion/blob/main/contfumad.png?raw=true)
+
+#### Región
+![Conteo por Región](https://github.com/amymarlene/Analisis-De-Datos-Regresion/blob/main/contregi.png?raw=true)
 
 > Observación: La mayoría de los datos son no fumadores; algunas regiones tienen más registros que otras.
 
